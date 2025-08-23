@@ -37,7 +37,7 @@
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ5yPOAbr-LrEa8ANO47RBo4f2txsvjPL-fw&s" alt="postman" width="40" height="40"/>&nbsp
-[Скачать коллекцию - ИТОГОВЫЙ ПРОЕКТ SKILLBOX]([ИТОГОВЫЙ ПРОЕКТ SKILLBOX.postman_collection.json](https://github.com/ Yura-1995/test/raw/main/ИТОГОВЫЙ%20ПРОЕКТ%20SKILLBOX.postman_collection.json))
+[Скачать коллекцию - ИТОГОВЫЙ ПРОЕКТ SKILLBOX]([ИТОГОВЫЙ ПРОЕКТ SKILLBOX.postman_collection.json](https://github.com/Yura-1995/test/raw/main/ИТОГОВЫЙ%20ПРОЕКТ%20SKILLBOX.postman_collection.json))
 </div>
 
 ---
