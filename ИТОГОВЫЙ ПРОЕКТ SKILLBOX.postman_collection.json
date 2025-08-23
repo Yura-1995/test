@@ -1,0 +1,357 @@
+{
+	"info": {
+		"_postman_id": "a76463c9-5291-47ff-bf32-33b0cff54135",
+		"name": "ИТОГОВЫЙ ПРОЕКТ SKILLBOX",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43537857",
+		"_collection_link": "https://yury1995.postman.co/workspace/Yury1995's-Workspace~e8c74252-14c5-4424-8d2c-6829278a6882/collection/43537857-a76463c9-5291-47ff-bf32-33b0cff54135?action=share&source=collection_link&creator=43537857"
+	},
+	"item": [
+		{
+			"name": "Получение всех товаров",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "iamfinallytester",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "skillboxadmin",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://intershop3.skillbox.ru/api/products",
+					"protocol": "http",
+					"host": [
+						"intershop3",
+						"skillbox",
+						"ru"
+					],
+					"path": [
+						"api",
+						"products"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Поиск конкретного товара по id",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "iamfinallytester",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "skillboxadmin",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://intershop3.skillbox.ru/api/products/19",
+					"protocol": "http",
+					"host": [
+						"intershop3",
+						"skillbox",
+						"ru"
+					],
+					"path": [
+						"api",
+						"products",
+						"19"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Создание карточки товара Принтер Юры",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "iamfinallytester",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "skillboxadmin",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\": \"Принтер Юры\",\r\n    \"slug\": \"printer-yuri\",\r\n      \"manage_stock\": true,\r\n    \"stock_quantity\": 4,\r\n    \"description\": \"Good\",\r\n    \"price\": \"120\",\r\n    \"regular_price\": \"120\",\r\n    \"sale_price\": \"110\",\r\n      \"images\": [\r\n      {\r\n        \"src\": \"<https://static.1k.by/images/products/ip/big/pp5/1/1833753/i5b85056c1.jpg>\"\r\n      }\r\n    ],\r\n    \"categories\": [\r\n      {\r\n        \"id\": 112,\r\n        \"name\": \"Техника\",\r\n        \"slug\": \"Texnika\"\r\n      }\r\n    ]\r\n  }\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://intershop3.skillbox.ru/api/products",
+					"protocol": "http",
+					"host": [
+						"intershop3",
+						"skillbox",
+						"ru"
+					],
+					"path": [
+						"api",
+						"products"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Создание карточки товара Мышь компьютерная Logitech ДЛЯ ПОСЛЕДУЮЩЕГО УДАЛЕНИЯ",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "iamfinallytester",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "skillboxadmin",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\": \" Мышь компьютерная Logitech\",\r\n    \"slug\": \"Mich-komputernaia-logitech\",\r\n      \"manage_stock\": true,\r\n    \"stock_quantity\": 7,\r\n    \"description\": \"Best\",\r\n    \"price\": \"555\",\r\n    \"regular_price\": \"555\",\r\n    \"sale_price\": \"510\",\r\n      \"images\": [\r\n      {\r\n        \"src\": \"<https://kancoffice.by/4965-thickbox_default/kompyuternaya-mysh-besprovodnaya-logitech-b170.jpg>\"\r\n      }\r\n    ],\r\n    \"categories\": [\r\n      {\r\n        \"id\": 112,\r\n        \"name\": \"Техника\",\r\n        \"slug\": \"Texnika\"\r\n      }\r\n    ]\r\n  }\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://intershop3.skillbox.ru/api/products",
+					"protocol": "http",
+					"host": [
+						"intershop3",
+						"skillbox",
+						"ru"
+					],
+					"path": [
+						"api",
+						"products"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Редактирование карточки товара на Мышка для кампуктера LogitechBEST",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "iamfinallytester",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "skillboxadmin",
+							"type": "string"
+						}
+					]
+				},
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\": \"Мышка для кампуктера LogitechBEST\",\r\n    \"slug\": \"Michka-dlia-kompuktera-logitechBEST\",\r\n      \"manage_stock\": true,\r\n    \"stock_quantity\": 3,\r\n    \"description\": \"New\",\r\n    \"price\": \"444\",\r\n    \"regular_price\": \"444\",\r\n    \"sale_price\": \"411\",\r\n      }\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://intershop3.skillbox.ru/api/products/707104",
+					"protocol": "http",
+					"host": [
+						"intershop3",
+						"skillbox",
+						"ru"
+					],
+					"path": [
+						"api",
+						"products",
+						"707104"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Удаление карточки товара Мышь компьютерная Logitech",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "iamfinallytester",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "skillboxadmin",
+							"type": "string"
+						}
+					]
+				},
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://intershop3.skillbox.ru/api/products/707104",
+					"protocol": "http",
+					"host": [
+						"intershop3",
+						"skillbox",
+						"ru"
+					],
+					"path": [
+						"api",
+						"products",
+						"707104"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "1.9 Создание карточки товара Принтер2 Юры",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "iamfinallytester",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "skillboxadmin",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\": \" Принтер2 Юры\",\r\n    \"slug\": \"printer2-yuri\",\r\n      \"manage_stock\": true,\r\n    \"stock_quantity\": 7,\r\n    \"description\": \"Good\",\r\n    \"price\": \"11140\",\r\n    \"regular_price\": \"11140\",\r\n    \"sale_price\": \"10500\",\r\n      \"images\": [\r\n      {\r\n        \"src\": \"<https://static.1k.by/images/products/ip/big/pp5/1/1833753/i5b85056c1.jpg>\"\r\n      }\r\n    ],\r\n    \"categories\": [\r\n      {\r\n        \"id\": 114,\r\n        \"name\": \"Техника\",\r\n        \"slug\": \"Texnika\"\r\n      }\r\n    ]\r\n  }\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://intershop4.skillbox.ru/api/products",
+					"protocol": "http",
+					"host": [
+						"intershop4",
+						"skillbox",
+						"ru"
+					],
+					"path": [
+						"api",
+						"products"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Редактирование карточки товара на Принтер 3 Юры",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "iamfinallytester",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "skillboxadmin",
+							"type": "string"
+						}
+					]
+				},
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\": \" Принтер 3 Юры \",\r\n    \"slug\": \"Printer-yuri3\",\r\n      \"manage_stock\": true,\r\n    \"stock_quantity\": 10,\r\n    \"description\": \"New\",\r\n    \"price\": \"444\",\r\n    \"regular_price\": \"444\",\r\n    \"sale_price\": \"411\",\r\n      }\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://intershop4.skillbox.ru/api/products/21316",
+					"protocol": "http",
+					"host": [
+						"intershop4",
+						"skillbox",
+						"ru"
+					],
+					"path": [
+						"api",
+						"products",
+						"21316"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
