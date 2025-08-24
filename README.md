@@ -24,11 +24,12 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
-  ### 📥 Посмотреть Итоговый проект по тестированию web-приложений
-  [Итоговый проект по тестированию web-приложений]
-  (https://mark77850.atlassian.net/jira/software/projects/WEBPROJ/boards/34?atlOrigin=eyJpIjoiYjE4ZmViN2EzZjM4NGNkMThjODE1ZTI2MTc2ZDMwM2UiLCJwIjoiaiJ9)
-  [Финальная работа ручного тестирования мобильных приложений]
-  (https://mark77850.atlassian.net/jira/software/projects/FINRMOBPR/boards/67?atlOrigin=eyJpIjoiYTVlZjIwMjIxMjFhNDBhOWFmZGNkOTMyMGZlNTRmMGEiLCJwIjoiaiJ9)
+  
+  ### 📥 Посмотреть Итоговый проект по тестированию web-приложений (Jira)
+    (https://mark77850.atlassian.net/jira/software/projects/WEBPROJ/boards/34?atlOrigin=eyJpIjoiYjE4ZmViN2EzZjM4NGNkMThjODE1ZTI2MTc2ZDMwM2UiLCJwIjoiaiJ9)
+  
+  ### 📥 Посмотреть Финальную работу ручного тестирования мобильных приложений (Jira)
+    (https://mark77850.atlassian.net/jira/software/projects/FINRMOBPR/boards/67?atlOrigin=eyJpIjoiYTVlZjIwMjIxMjFhNDBhOWFmZGNkOTMyMGZlNTRmMGEiLCJwIjoiaiJ9)
 </div>
 
 ---
