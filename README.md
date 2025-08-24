@@ -40,6 +40,8 @@
 [Скачать коллекцию - ИТОГОВЫЙ ПРОЕКТ SKILLBOX]([ИТОГОВЫЙ ПРОЕКТ SKILLBOX.postman_collection.json](https://github.com/Yura-1995/test/raw/main/ИТОГОВЫЙ%20ПРОЕКТ%20SKILLBOX.postman_collection.json))
 [Скачать collection.zip](https://github.com/Yura-1995/test/ИТОГОВЫЙ ПРОЕКТ SKILLBOX.postman_collection.json/download/v1.0.0/collection.zip)
 [Скачать collection.zip](https://github.com/Yura-1995/test/SKILLBOX.postman_collection.json/download/v1.0.0/collection.zip)
+### 📥 Скачать Postman collection
+[Скачать Postman.zip](https://github.com/Yura-1995/test/releases/download/v1.0.1/Postman.zip)
 </div>
 
 ---
