@@ -6,7 +6,7 @@
 
 Я тестировщик. Основной домен - тестирование веб-приложений (front + back). Я обучился тестированию на платформе Skillbox и ютуб-канале Artsiom Rusau QA Life.
 
-- 📫 Как связаться со мной: [[Mail Badge](https://img.shields.io/badge/-@onishuk-yura@mail.ru-blue?style=flat&logo=Mail&logoColor=white)](onishuk-yura@mail.ru)
+- 📫 Как связаться со мной: [Mail](onishuk-yura@mail.ru)
 
 
 ---
