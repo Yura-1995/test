@@ -6,7 +6,7 @@
 
 Я тестировщик. Основной домен - тестирование веб-приложений (front + back). Я обучился тестированию на платформе Skillbox и ютуб-канале Artsiom Rusau QA Life.
 
-- 📫 Как связаться со мной: [![Mail Badge](https://img.shields.io/badge/-@onishuk-yura@mail.ru-blue?style=flat&logo=Mail&logoColor=white)](mailto:onishuk-yura@mail.ru)
+- 📫 Как связаться со мной: [[Mail Badge](https://img.shields.io/badge/-@onishuk-yura@mail.ru-blue?style=flat&logo=Mail&logoColor=white)](onishuk-yura@mail.ru)
 
 
 ---
@@ -62,7 +62,6 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -71,7 +70,6 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   
 </div>
