@@ -39,6 +39,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ5yPOAbr-LrEa8ANO47RBo4f2txsvjPL-fw&s" alt="postman" width="40" height="40"/>&nbsp
 [Скачать коллекцию - ИТОГОВЫЙ ПРОЕКТ SKILLBOX]([ИТОГОВЫЙ ПРОЕКТ SKILLBOX.postman_collection.json](https://github.com/Yura-1995/test/raw/main/ИТОГОВЫЙ%20ПРОЕКТ%20SKILLBOX.postman_collection.json))
 [Скачать collection.zip](https://github.com/Yura-1995/test/ИТОГОВЫЙ ПРОЕКТ SKILLBOX.postman_collection.json/download/v1.0.0/collection.zip)
+[Скачать collection.zip](https://github.com/Yura-1995/test/ SKILLBOX.postman_collection.json/download/v1.0.0/collection.zip)
 </div>
 
 ---
