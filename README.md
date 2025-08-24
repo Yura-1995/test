@@ -27,11 +27,11 @@
   
 ### 👁️ Посмотреть Итоговый проект по тестированию web-приложений
 
-    [Перейти в Jira](https://mark77850.atlassian.net/jira/software/projects/WEBPROJ/boards/34?atlOrigin=eyJpIjoiYjE4ZmViN2EzZjM4NGNkMThjODE1ZTI2MTc2ZDMwM2UiLCJwIjoiaiJ9)
+[Перейти в Jira](https://mark77850.atlassian.net/jira/software/projects/WEBPROJ/boards/34?atlOrigin=eyJpIjoiY2ZmNWFhMDY0Nzc3NDhjMjg3YmNlNTY5MmYxZGM4NjQiLCJwIjoiaiJ9)
   
 ### 👁️ Посмотреть Финальную работу ручного тестирования мобильных приложений
 
-    [Перейти в Jira](https://mark77850.atlassian.net/jira/software/projects/FINRMOBPR/boards/67?atlOrigin=eyJpIjoiYTVlZjIwMjIxMjFhNDBhOWFmZGNkOTMyMGZlNTRmMGEiLCJwIjoiaiJ9)
+[Перейти в Jira](https://mark77850.atlassian.net/jira/software/projects/FINRMOBPR/boards/67?atlOrigin=eyJpIjoiYTVlZjIwMjIxMjFhNDBhOWFmZGNkOTMyMGZlNTRmMGEiLCJwIjoiaiJ9)
 </div>
 
 ---
